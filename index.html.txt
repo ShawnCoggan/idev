@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>Site name here</title>
+<link rel = "stylesheet" type = "text/css" href = "css/styles.css">
+</head>
+
+<body>
+<h1>Shawn Coggan</h1>
+
+<script src = "js/script.js"></script>
+</body>
+</html>
